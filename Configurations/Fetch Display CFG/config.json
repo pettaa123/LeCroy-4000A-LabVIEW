@@ -1,0 +1,51 @@
+{
+    "MAX Identifier": "HDO4000A",
+    "Attributes": {
+        "Channels": [
+            {
+                "Name": "Channel 1",
+                "Display": true,
+                "Vertical Coupling": "Ground",
+                "Probe Attenuation": 1.0,
+                "Vertical Range": 10.0,
+                "Vertical Offset": 0.0,
+                "Bandwith": "20MHZ"
+            },
+            {
+                "Name": "Channel 2",
+                "Display": false,
+                "Vertical Coupling": "Ground",
+                "Probe Attenuation": 1.0,
+                "Vertical Range": 10.0,
+                "Vertical Offset": 0.0,
+                "Bandwith": "20MHZ"
+            },
+            {
+                "Name": "Channel 3",
+                "Display": false,
+                "Vertical Coupling": "Ground",
+                "Probe Attenuation": 1.0,
+                "Vertical Range": 10.0,
+                "Vertical Offset": 0.0,
+                "Bandwith": "20MHZ"
+            },
+            {
+                "Name": "Channel 4",
+                "Display": false,
+                "Vertical Coupling": "Ground",
+                "Probe Attenuation": 1.0,
+                "Vertical Range": 10.0,
+                "Vertical Offset": 0.0,
+                "Bandwith": "20MHZ"
+            },
+        ],
+        "Acquire": {
+            "Mode": "SAMPle"
+        },
+		"Horizontal": {
+            "Scale": 0.0002,
+			"Offset": 0.0,
+			"Max Sample Points": 500
+        }
+    }
+}
