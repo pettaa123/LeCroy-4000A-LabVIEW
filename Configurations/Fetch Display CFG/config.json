@@ -40,7 +40,8 @@
             },
         ],
         "Acquire": {
-            "Mode": "SAMPle"
+            "Continuous Acquisition": true,
+			"Auto Trigger":true
         },
 		"Horizontal": {
             "Scale": 0.0002,
